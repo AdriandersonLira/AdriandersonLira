@@ -1,11 +1,18 @@
-### Hi there 👋
+## What's up my friends 👋 welcome to my world
+
+I'm Adrianderson Lira.
+I'm a Full-Stack developer, but I'm more passionate about the frontend. :computer:
+
+<!--- :rocket:   I’m currently working at **Rocketseat**-->
+- :computer: ReactJS, Node, React Native, Typescript, Python, Flask, PHP
+- 📫 How to reach me:
+[![Instagram Badge](https://img.shields.io/badge/-@adriandersonlira-c32aa3?style=flat-square&labelColor=c32aa3&logo=instagram&logoColor=white&link=https://www.instagram.com/adriandersonlira/)](https://www.instagram.com/adriandersonlira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-AdriandersonLira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianderson-lira-932981176/)](https://www.linkedin.com/in/adrianderson-lira-932981176/) 
+[![Gmail Badge](https://img.shields.io/badge/-adriandersonmusica@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriandersonmusica@gmail.com)](mailto:adriandersonmusica@gmail.com)
+- ⚡ Fun fact: I love to play volleyball and music.
 
 <!--
-**AdriandersonLira/AdriandersonLira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
